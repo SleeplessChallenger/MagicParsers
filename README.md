@@ -1,2 +1,2 @@
 # MagicParsers
-Various parsers for multiple purposes
+* Parsers which accomplish different purposes
