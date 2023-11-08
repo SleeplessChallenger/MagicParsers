@@ -88,7 +88,6 @@ def convert_output_to_golang_types(full_final_string: str, data: List):
 
 if __name__ == '__main__':
     """
-    1. cmnd + R to replace TO_BE_NIL with nil in the second string
-    2. remove one `,` in [][]NilInt{, and [][]int{,
+    * remove one `,` in [][]NilInt{, and [][]int{,
     """
     start_data_conversion()
